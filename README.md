@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Scalable Java and Python architectures<br><br>👯 looking to collaborate on app development and embedded systems<br><br>looking for help with starting my own business<br><br>🌱 I’m currently learning: Advanced quantitative modeling and RStudio<br><br>💬 Ask me about: Development, data analytics, and cybersecurity<br><br>⚡ Fun fact: US Cyber Challenge Top 200<br>
+🔭 I’m currently working on: Scalable Java and Python architectures<br><br>👯 looking to collaborate on app development and embedded systems<br><br>🤝looking for help with starting my own business<br><br>🌱 I’m currently learning: Advanced quantitative modeling and RStudio<br><br>💬 Ask me about: Development, data analytics, and cybersecurity<br><br>⚡ Fun fact: US Cyber Challenge Top 200<br>
 
 
 ## 🌐 Socials:
