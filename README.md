@@ -1,16 +1,17 @@
+To make this better while staying under your character limit and keeping it focused purely on your skills in **development**, **data analytics**, and **cybersecurity**, here is a clean and professional version:
+
 ## Hi there 👋
 
-<!--
-**IanCodes1971/IanCodes1971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer and St. John Fisher University graduate (Cum Laude) focused on secure, data-driven architecture.
 
-Here are some ideas to get you started:
+* **🔭 I’m currently working on**: Scalable Java and Python architectures
+* **🌱 I’m currently learning**: Advanced quantitative modeling and RStudio
+* **💬 Ask me about**: Development, data analytics, and cybersecurity
+* **⚡ Fun fact**: US Cyber Challenge Top 200
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Skills
+* **Languages**: Java, Python, C, C#, Kotlin, SQL, JavaScript, R
+* **Frameworks**: Spring Boot, React, .NET, Kafka, Maven
+* **Security**: Forensics, pentesting, and reverse engineering
